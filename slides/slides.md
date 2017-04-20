@@ -1,5 +1,13 @@
+<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 # God's Compassion, <br/> A Mother's Heart
 ## Jeremiah 31:15-20
+
+---
+<!-- .slide: data-background="white" -->
+# Q0
+
+[###](#/outline)
+<!-- .element: style="color:rgba(0,0,0,0.2)" -->
 
 ---
 <span class="ref">15</span>
@@ -90,10 +98,52 @@ I have great compassion for him,” declares the Lord.
 </div>
 
 ---
-<!-- .slide: id="outline" -->
+<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" id="outline" -->
 ## Jeremiah 31:15-20
 1. A Mother's **Tears** <span class="ref">(v15)</span>
 1. The LORD's **Promise** <span class="ref">(v16-17)</span>
 1. A Son's **Chastening** <span class="ref">(v18-19)</span>
 1. The LORD's **Compassion** <span class="ref">(v20)</span>
 
+---
+<!-- .slide: data-background="white" -->
+# Q1
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+## Jeremiah 31:15-20
+1. A Mother's Tears <span class="ref">(v15)</span>
+1. **The LORD's Promise** <span class="ref">(v16-17)</span>
+1. A Son's Chastening <span class="ref">(v18-19)</span>
+1. The LORD's Compassion <span class="ref">(v20)</span>
+
+---
+<!-- .slide: data-background="white" -->
+# Q2
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+## Jeremiah 31:15-20
+1. A Mother's Tears <span class="ref">(v15)</span>
+1. The LORD's Promise <span class="ref">(v16-17)</span>
+1. **A Son's Chastening** <span class="ref">(v18-19)</span>
+1. The LORD's Compassion <span class="ref">(v20)</span>
+
+---
+<!-- .slide: data-background="white" -->
+# Q3
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+## Jeremiah 31:15-20
+1. A Mother's Tears <span class="ref">(v15)</span>
+1. The LORD's Promise <span class="ref">(v16-17)</span>
+1. A Son's Chastening <span class="ref">(v18-19)</span>
+1. **The LORD's Compassion** <span class="ref">(v20)</span>
+
+---
+<!-- .slide: data-background="white" -->
+# Q4
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" class="empthyy" -->
