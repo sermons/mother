@@ -9,6 +9,17 @@
 [###](#/outline)
 <!-- .element: style="color:rgba(0,0,0,0.2)" -->
 
+>>>
+God as **Father**: does He understand a **mother's** heartache?
+	* dads can be oblivious
+* ch30 write for future
+	* :12 wound incurable || :17 I will heal
+	* :24 fierce anger until accompl intent
+* 31:2 survived **sword** => walk out for **rest**
+	* => attain **grace** in wilderness
+* :9 return w/weeping
+	* father to Ephraim
+
 ---
 <span class="ref">15</span>
 This is what the Lord says: <br/>
@@ -105,6 +116,20 @@ I have great compassion for him,” declares the Lord.
 1. A Son's **Chastening** <span class="ref">(v18-19)</span>
 1. The LORD's **Compassion** <span class="ref">(v20)</span>
 
+>>>
+* sorrow over **lost children**
+	* (Mt2:18 Bethlehem) (Benj/Rachel)
+	* e.g., remember miscarriage 25yrs
+* lost to **exile**: turned away from God
+	* not about success, schooling
+* refuse **comfort**: repent, ! mourn: move on
+	* **Gen37:35** Jacob over Joseph
+	* (:13 & Is40 comfort my people)
+
+---
+## Genesis 37:34-35
+Then Jacob tore his clothes, put on sackcloth and mourned for his son many days. All his sons and daughters came to comfort him, but he **refused to be comforted.** “No,” he said, “I will continue to mourn until I join my son in the grave.” So his father wept for him.
+
 ---
 <!-- .slide: data-background="white" -->
 # Q1
@@ -116,6 +141,22 @@ I have great compassion for him,” declares the Lord.
 1. **The LORD's Promise** <span class="ref">(v16-17)</span>
 1. A Son's Chastening <span class="ref">(v18-19)</span>
 1. The LORD's Compassion <span class="ref">(v20)</span>
+
+>>>
+* **2Ch15:7** Asa: be strong, **reward** for work
+	* :2 with God, seek Him
+	* **reforms**: idols, incl own mom's
+	* || hope for **future** *(desc):* (Jer29:11)
+	* redeemed out of enemy exile **70yrs**
+* return **from** enemy || return **to** own land
+	* ancient boundary: **home**
+* e.g., Christopher Yuan's mom Angela
+
+---
+## 2 Chronicles 15:2
+Listen to me, Asa and all Judah and Benjamin. The Lord is with you when you are with him. If you **seek** him, he will be **found** by you, but if you forsake him, he will forsake you.
+
+But as for you, be strong and do not give up, for your **work will be rewarded**.
 
 ---
 <!-- .slide: data-background="white" -->
@@ -129,6 +170,23 @@ I have great compassion for him,” declares the Lord.
 1. **A Son's Chastening** <span class="ref">(v18-19)</span>
 1. The LORD's Compassion <span class="ref">(v20)</span>
 
+>>>
+* surely **heard**: inf abs
+	* **moaning**: shake head, quiver
+* You **disciplnd** (pf) => I was (wayyiqtol)
+	* || **Turn** me => I turn (repent)
+* I: calf not-been-**taught** (ps)
+	* || You: LORD **my God**
+* **turned** (ac) || made **known** (ps)
+	* **sorry**/comfort || **clap** thigh
+		* contract, scoff, horror
+	* (Ez21:12 finality of judgment)
+* ashamed, **humiliated**, disgrace
+	* not: prove self, appl loan from dad
+	* not: success, don't need you
+* e.g., guitar stolen
+* instr: e.g. frustrated @SS kids: then teach them
+
 ---
 <!-- .slide: data-background="white" -->
 # Q3
@@ -140,6 +198,25 @@ I have great compassion for him,” declares the Lord.
 1. The LORD's Promise <span class="ref">(v16-17)</span>
 1. A Son's Chastening <span class="ref">(v18-19)</span>
 1. **The LORD's Compassion** <span class="ref">(v20)</span>
+
+>>>
+* dear (**precious**, weighty) || **delight**
+	* (Is5:7 vineyard, w/o yield)
+* **speak** against/to
+	* **remember**: inf abs
+* *heart*: bowels/inmost
+	* *yearns*: roar/turmoil
+* "it's your breath on our lungs"
+* love, yearn (Piel inf abs): **womb** (רָחַם)
+* Hab 3:2 in wrath remember mercy (Piel)
+
+---
+## Habakkuk 3:2
+Lord, I have heard of your fame;
+I stand in awe of your deeds, Lord.
+Repeat them in our day,
+in our time make them known;
+in wrath remember mercy.
 
 ---
 <!-- .slide: data-background="white" -->
