@@ -24,7 +24,8 @@ God as **Father**: does He understand a **mother's** heartache?
 <span class="ref">15</span>
 This is what the Lord says: <br/>
 “A voice is heard in Ramah, mourning and great weeping, <br/>
-Rachel weeping for her children and refusing to be comforted, <br/>
+Rachel weeping for her children <br/>
+and refusing to be comforted, <br/>
 because they are no more.”
 
 <div class="zh">
@@ -223,4 +224,4 @@ in wrath remember mercy.
 # Q4
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" class="empthyy" -->
+<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" class="empty" -->
