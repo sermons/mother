@@ -3,7 +3,7 @@
   "repository": "sermons/mother",
   "description": "Jer31:15-20 God's Compassion, A Mother's Heart",
   "keywords": ["slides", "sermons", "talks", "ppt"],
-  "version": "1.2.5",
+  "version": "1.3.0",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "mother.seanho.com",
