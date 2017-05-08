@@ -173,15 +173,28 @@ Genesis 37:35 (NIV) (p.2/2)
 1. A Son's Chastening <span class="ref">(v18-19)</span>
 1. The LORD's Compassion <span class="ref">(v20)</span>
 
->>>
-* **2Ch15:7** Asa: be strong, **reward** for work
-	* :2 with God, seek Him
-	* **reforms**: idols, incl own mom's
-	* || hope for **future** *(desc):* (Jer29:11)
-	* redeemed out of enemy exile **70yrs**
-* return **from** enemy || return **to** own land
-	* ancient boundary: **home**
-* e.g., Christopher Yuan's mom Angela
+---
+<span class="ref">16</span>
+“Restrain your voice from weeping and your eyes from tears, <br/>
+for your work will be rewarded,” declares the Lord.
+
+<div class="zh">
+<span class="ref">16</span>
+你禁止聲音不要哀哭，禁止眼目不要流淚， <br/>
+因你所做之工必有賞賜；
+</div>
+
+---
+“They will return from the land of the enemy. <br/>
+<span class="ref">17</span>
+So there is hope for your descendants,” <br/>
+declares the Lord.
+
+<div class="zh">
+他們必從敵國歸回。這是耶和華說的。 <br/>
+<span class="ref">17</span>
+耶和華說：你末後必有指望；
+</div>
 
 ---
 The Lord is with you when you are with him. <br/>
@@ -195,6 +208,16 @@ for your **work will be rewarded**.
 2 Chronicles 15:2 (NIV)
 </div>
 
+>>>
+* **2Ch15:7** Asa: be strong, **reward** for work
+	* :2 with God, seek Him
+	* **reforms**: idols, incl own mom's
+	* || hope for **future** *(desc):* (Jer29:11)
+	* redeemed out of enemy exile **70yrs**
+* return **from** enemy || return **to** own land
+	* ancient boundary: **home**
+* e.g., Christopher Yuan's mom Angela
+
 ---
 <!-- .slide: data-background="white" -->
 # Q2
@@ -207,6 +230,23 @@ for your **work will be rewarded**.
 1. **A Son's Chastening** <span class="ref">(v18-19)</span>
 1. The LORD's Compassion <span class="ref">(v20)</span>
 
+---
+<span class="ref">18</span>
+“I have surely heard Ephraim’s moaning: <br/>
+‘You disciplined me like an unruly calf, <br/>
+and I have been disciplined. <br/>
+Restore me, and I will return, <br/>
+because you are the Lord my God.
+
+<div class="zh">
+<span class="ref">18</span>
+我聽見以法蓮為自己悲歎說： <br/>
+你責罰我，我便受責罰， <br/>
+像不慣負軛的牛犢一樣。 <br/>
+求你使我回轉，我便回轉， <br/>
+因為你是耶和華─我的神。
+</div>
+
 >>>
 * surely **heard**: inf abs
 	* **moaning**: shake head, quiver
@@ -214,6 +254,22 @@ for your **work will be rewarded**.
 	* || **Turn** me => I turn (repent)
 * I: calf not-been-**taught** (ps)
 	* || You: LORD **my God**
+
+---
+<span class="ref">19</span>
+After I strayed, I repented; <br/>
+after I came to understand, I beat my breast. <br/>
+I was ashamed and humiliated <br/>
+because I bore the disgrace of my youth.’
+
+<div class="zh">
+<span class="ref">19</span>
+我回轉以後就真正懊悔； <br/>
+受教以後就拍腿歎息； <br/>
+我因擔當幼年的凌辱就抱愧蒙羞。
+</div>
+
+>>>
 * **turned** (ac) || made **known** (ps)
 	* **sorry**/comfort || **clap** thigh
 		* contract, scoff, horror
@@ -235,6 +291,21 @@ for your **work will be rewarded**.
 1. The LORD's Promise <span class="ref">(v16-17)</span>
 1. A Son's Chastening <span class="ref">(v18-19)</span>
 1. **The LORD's Compassion** <span class="ref">(v20)</span>
+
+---
+<span class="ref">20</span>
+Is not Ephraim my dear son, the child in whom I delight? <br/>
+Though I often speak against him, I still remember him. <br/>
+Therefore my heart yearns for him; <br/>
+I have great compassion for him,” declares the Lord.
+
+<div class="zh">
+<span class="ref">20</span>
+耶和華說：以法蓮是我的愛子麼？ <br/>
+是可喜悅的孩子麼？ <br/>
+我每逢責備他， 仍深顧念他； <br/>
+所以我的心腸戀慕他； 我必要憐憫他。
+</div>
 
 >>>
 * dear (**precious**, weighty) || **delight**
