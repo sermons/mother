@@ -10,15 +10,16 @@
 <!-- .element: style="color:rgba(0,0,0,0.2)" -->
 
 >>>
-God as **Father**: does He understand a **mother's** heartache?
-	* dads can be oblivious
-* ch30 write for future
-	* :12 wound incurable || :17 I will heal
-	* :24 fierce anger until accompl intent
-* 31:2 survived **sword** => walk out for **rest**
-	* => attain **grace** in wilderness
-* :9 return w/weeping
-	* father to Ephraim
++ God as **Father**:
+  + does He understand a **mother's** heartache?
+	+ dads can be oblivious
++ ch30 write for future
+	+ :12 wound incurable || :17 I will heal
+	+ :24 fierce anger until accompl intent
++ 31:2 survived **sword** &rArr; walk out for **rest**
+	+ &rArr; attain **grace** in wilderness
++ :9 return w/weeping
+	+ father to Ephraim
 
 ---
 <span class="ref">15</span>
@@ -117,19 +118,48 @@ I have great compassion for him,” declares the Lord.
 1. A Son's **Chastening** <span class="ref">(v18-19)</span>
 1. The LORD's **Compassion** <span class="ref">(v20)</span>
 
+---
+<span class="ref">15</span>
+“A voice is heard in Ramah, mourning and great weeping, <br/>
+Rachel weeping for her children <br/>
+and refusing to be comforted, <br/>
+because they are no more.”
+
+<div class="zh">
+<span class="ref">15</span>
+在拉瑪聽見號咷痛哭的聲音， <br/>
+是拉結哭他兒女，不肯受安慰， <br/>
+因為他們都不在了。
+</div>
+
 >>>
-* sorrow over **lost children**
-	* (Mt2:18 Bethlehem) (Benj/Rachel)
-	* e.g., remember miscarriage 25yrs
-* lost to **exile**: turned away from God
-	* not about success, schooling
-* refuse **comfort**: repent, ! mourn: move on
-	* **Gen37:35** Jacob over Joseph
-	* (:13 & Is40 comfort my people)
++ sorrow over **lost children**
+	+ (Mt2:18 Bethlehem) (Benj/Rachel)
+	+ e.g., remember miscarriage 25yrs
++ lost to **exile**: turned away from God
+	+ not about success, schooling
++ refuse **comfort**: repent, ! mourn: move on
+	+ **Gen37:35** Jacob over Joseph
+	+ (:13, Is40 comfort my people)
 
 ---
-## Genesis 37:34-35
-Then Jacob tore his clothes, put on sackcloth and mourned for his son many days. All his sons and daughters came to comfort him, but he **refused to be comforted.** “No,” he said, “I will continue to mourn until I join my son in the grave.” So his father wept for him.
+Then Jacob tore his clothes, <br/>
+put on sackcloth and **mourned for his son** many days. <br/>
+All his sons and daughters came to comfort him, <br/>
+but he **refused to be comforted.**
+
+<div class="ref">
+Genesis 37:34 (NIV) (p.1/2)
+</div>
+
+---
+“No,” he said, “I will continue to **mourn** <br/>
+until I **join my son** in the grave.” <br/>
+So his father **wept** for him.
+
+<div class="ref">
+Genesis 37:35 (NIV) (p.2/2)
+</div>
 
 ---
 <!-- .slide: data-background="white" -->
@@ -154,10 +184,16 @@ Then Jacob tore his clothes, put on sackcloth and mourned for his son many days.
 * e.g., Christopher Yuan's mom Angela
 
 ---
-## 2 Chronicles 15:2
-Listen to me, Asa and all Judah and Benjamin. The Lord is with you when you are with him. If you **seek** him, he will be **found** by you, but if you forsake him, he will forsake you.
+The Lord is with you when you are with him. <br/>
+If you **seek** him, he will be **found** by you, <br/>
+but if you forsake him, he will forsake you.
 
-But as for you, be strong and do not give up, for your **work will be rewarded**.
+But as for you, be strong and do not give up, <br/>
+for your **work will be rewarded**.
+
+<div class="ref">
+2 Chronicles 15:2 (NIV)
+</div>
 
 ---
 <!-- .slide: data-background="white" -->
@@ -212,12 +248,15 @@ But as for you, be strong and do not give up, for your **work will be rewarded**
 * Hab 3:2 in wrath remember mercy (Piel)
 
 ---
-## Habakkuk 3:2
-Lord, I have heard of your fame;
-I stand in awe of your deeds, Lord.
-Repeat them in our day,
-in our time make them known;
-in wrath remember mercy.
+Lord, I have heard of your **fame**; <br/>
+I stand in awe of your **deeds**, Lord. <br/>
+Repeat them in **our day**, <br/>
+in **our time** make them known; <br/>
+in **wrath** remember **mercy**.
+
+<div class="ref">
+Habakkuk 3:2 (NIV)
+</div>
 
 ---
 <!-- .slide: data-background="white" -->
