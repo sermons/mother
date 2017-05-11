@@ -24,9 +24,9 @@
 ---
 <span class="ref">15</span>
 This is what the Lord says: <br/>
-“A voice is heard in Ramah, mourning and great weeping, <br/>
-Rachel weeping for her children <br/>
-and refusing to be comforted, <br/>
+“A voice is heard in Ramah, **mourning** and great weeping, <br/>
+Rachel **weeping** for her children <br/>
+and **refusing** to be comforted, <br/>
 because they are no more.”
 
 <div class="zh">
@@ -40,8 +40,8 @@ because they are no more.”
 ---
 <span class="ref">16</span>
 This is what the Lord says: <br/>
-“Restrain your voice from weeping and your eyes from tears, <br/>
-for your work will be rewarded,” declares the Lord.
+“**Restrain** your voice from weeping and your eyes from tears, <br/>
+for your work will be **rewarded**,” declares the Lord.
 
 <div class="zh">
 <span class="ref">16</span>
@@ -51,9 +51,9 @@ for your work will be rewarded,” declares the Lord.
 </div>
 
 ---
-“They will return from the land of the enemy. <br/>
+“They will **return** from the land of the enemy. <br/>
 <span class="ref">17</span>
-So there is hope for your descendants,” <br/>
+So there is **hope** for your descendants,” <br/>
 declares the Lord. <br/>
 “Your children will return to their own land.
 
@@ -66,10 +66,10 @@ declares the Lord. <br/>
 
 ---
 <span class="ref">18</span>
-“I have surely heard Ephraim’s moaning: <br/>
-‘You disciplined me like an unruly calf, <br/>
+“I have surely **heard** Ephraim’s moaning: <br/>
+‘You **disciplined** me like an unruly **calf**, <br/>
 and I have been disciplined. <br/>
-Restore me, and I will return, <br/>
+**Restore** me, and I will **return**, <br/>
 because you are the Lord my God.
 
 <div class="zh">
@@ -83,9 +83,9 @@ because you are the Lord my God.
 
 ---
 <span class="ref">19</span>
-After I strayed, I repented; <br/>
-after I came to understand, I beat my breast. <br/>
-I was ashamed and humiliated <br/>
+After I strayed, I **repented**; <br/>
+after I came to **understand**, I beat my breast. <br/>
+I was **ashamed** and humiliated <br/>
 because I bore the disgrace of my youth.’
 
 <div class="zh">
@@ -97,10 +97,10 @@ because I bore the disgrace of my youth.’
 
 ---
 <span class="ref">20</span>
-Is not Ephraim my dear son, the child in whom I delight? <br/>
-Though I often speak against him, I still remember him. <br/>
-Therefore my heart yearns for him; <br/>
-I have great compassion for him,” declares the Lord.
+Is not Ephraim my **dear son**, the child in whom I **delight**? <br/>
+Though I often speak against him, I still **remember** him. <br/>
+Therefore my heart **yearns** for him; <br/>
+I have great **compassion** for him,” declares the Lord.
 
 <div class="zh">
 <span class="ref">20</span>
@@ -233,10 +233,10 @@ for your **work will be rewarded**.
 
 ---
 <span class="ref">18</span>
-“I have **surely** heard Ephraim’s **moaning**: <br/>
+“I have surely **heard** Ephraim’s moaning: <br/>
 ‘You **disciplined** me like an unruly **calf**, <br/>
 and I have been disciplined. <br/>
-**Restore** me, and I will return, <br/>
+**Restore** me, and I will **return**, <br/>
 because you are the Lord my God.
 
 <div class="zh">
