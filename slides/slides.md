@@ -4,15 +4,12 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Q0
+# Does the Heavenly **Father** <br/> understand a **mother's** heart?
 
 [###](#/outline)
 <!-- .element: style="color:rgba(0,0,0,0.2)" -->
 
 >>>
-+ God as **Father**:
-  + does He understand a **mother's** heartache?
-	+ dads can be oblivious
 + ch30 write for future
 	+ :12 wound incurable || :17 I will heal
 	+ :24 fierce anger until accompl intent
@@ -146,17 +143,30 @@ because they are no more.”
 ---
 Then Jacob tore his clothes, <br/>
 put on sackcloth and **mourned for his son** many days. <br/>
+<span class="ref">35</span>
 All his sons and daughters came to comfort him, <br/>
 but he **refused to be comforted.**
 
+<div class="zh">
+雅各便撕裂衣服， 腰間圍上麻布， <br/>
+為他兒子悲哀了多日。 <br/>
+<span class="ref">35</span>
+他的兒女都起來安慰他， 他卻不肯受安慰，
+</div>
+
 <div class="ref">
-Genesis 37:34 (NIV) (p.1/2)
+Genesis 37:34-35 (NIV) (p.1/2)
 </div>
 
 ---
 “No,” he said, “I will continue to **mourn** <br/>
 until I **join my son** in the grave.” <br/>
 So his father **wept** for him.
+
+<div class="zh">
+說： 我必悲哀著下陰間， 到我兒子那裡。 <br/>
+約瑟的父親就為他哀哭。
+</div>
 
 <div class="ref">
 Genesis 37:35 (NIV) (p.2/2)
