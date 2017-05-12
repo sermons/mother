@@ -173,10 +173,6 @@ Genesis 37:35 (NIV) (p.2/2)
 </div>
 
 ---
-<!-- .slide: data-background="white" -->
-# Q1
-
----
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 ## Jeremiah 31:15-20
 1. A Mother's Tears <span class="ref">(v15)</span>
