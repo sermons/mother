@@ -193,17 +193,6 @@ for your work will be **rewarded**
 </div>
 
 ---
-They will **return** from the land of the enemy. <br/>
-<span class="ref">17</span>
-So there is **hope** for your descendants
-
-<div class="zh">
-他們必從敵國歸回。這是耶和華說的。 <br/>
-<span class="ref">17</span>
-耶和華說：你末後必有指望；
-</div>
-
----
 The Lord is with you when you are with him. <br/>
 If you **seek** him, he will be **found** by you, <br/>
 but if you forsake him, he will forsake you.
@@ -221,6 +210,19 @@ for your **work will be rewarded**.
 	* **reforms**: idols, incl own mom's
 	* || hope for **future** *(desc):* (Jer29:11)
 	* redeemed out of enemy exile **70yrs**
+
+---
+They will **return** from the land of the enemy. <br/>
+<span class="ref">17</span>
+So there is **hope** for your descendants
+
+<div class="zh">
+他們必從敵國歸回。這是耶和華說的。 <br/>
+<span class="ref">17</span>
+耶和華說：你末後必有指望；
+</div>
+
+>>>
 * return **from** enemy || return **to** own land
 	* ancient boundary: **home**
 * e.g., Christopher Yuan's mom Angela
