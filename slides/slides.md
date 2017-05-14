@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-78A265wPiO4-sunlit_valley.jpg" -->
 # God's Compassion, <br/> A Mother's Heart
 ## Jeremiah 31:15-20
 
@@ -114,7 +114,7 @@ I have great **compassion** for him,” declares the Lord.
 </div>
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" id="outline" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-78A265wPiO4-sunlit_valley.jpg" id="outline" -->
 ## Jeremiah 31:15-20
 1. A Mother's **Tears** <span class="ref">(v15)</span>
 1. The LORD's **Promise** <span class="ref">(v16-17)</span>
@@ -157,6 +157,7 @@ because they are no more.”
 	+ (:13, Is40 comfort my people)
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Forty-Jacob_Joseph.jpg" -->
 Then Jacob tore his clothes, <br/>
 put on sackcloth and **mourned for his son** many days. <br/>
 <span class="ref">35</span>
@@ -175,6 +176,7 @@ Genesis 37:34-35 (NIV) (p.1/2)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Forty-Jacob_Joseph.jpg" -->
 “No,” he said, “I will continue to **mourn** <br/>
 until I **join my son** in the grave.” <br/>
 So his father **wept** for him.
@@ -200,7 +202,7 @@ Genesis 37:35 (NIV) (p.2/2)
 # God **sees** each mother's **tears**
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-78A265wPiO4-sunlit_valley.jpg" -->
 ## Jeremiah 31:15-20
 1. A Mother's Tears <span class="ref">(v15)</span>
 1. **The LORD's Promise** <span class="ref">(v16-17)</span>
@@ -235,6 +237,7 @@ for your work will be **rewarded**
 + similar promise in **2Chr15** to King Asa:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-FAVdyq1Qz24-aus-rock-beach.jpg" -->
 The Lord is **with** you when you are **with** him. <br/>
 If you **seek** him, he will be **found** by you, <br/>
 but if you **forsake** him, he will **forsake** you.
@@ -256,6 +259,7 @@ but if you **forsake** him, he will **forsake** you.
   + or **run away** from God's calling
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-FAVdyq1Qz24-aus-rock-beach.jpg" -->
 But as for you, be **strong** and do not give up, <br/>
 for your **work** will be **rewarded**.
 
@@ -305,7 +309,7 @@ So there is **hope** for your descendants
 + **seek** God &rArr; **obey** His calling
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-78A265wPiO4-sunlit_valley.jpg" -->
 ## Jeremiah 31:15-20
 1. A Mother's Tears <span class="ref">(v15)</span>
 1. The LORD's Promise <span class="ref">(v16-17)</span>
@@ -402,7 +406,7 @@ because I bore the **disgrace** of my youth.’
   + I'll know what it **looks like** in my children
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-78A265wPiO4-sunlit_valley.jpg" -->
 ## Jeremiah 31:15-20
 1. A Mother's Tears <span class="ref">(v15)</span>
 1. The LORD's Promise <span class="ref">(v16-17)</span>
@@ -439,6 +443,7 @@ I have great **compassion** for him,” declares the Lord.
   + Hab 3:2 **mercy** (Piel)
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-78A265wPiO4-sunlit_valley.jpg" -->
 Lord, I have heard of your **fame**; <br/>
 I stand in awe of your **deeds**, Lord. <br/>
 Repeat them in **our day**, <br/>
@@ -466,4 +471,4 @@ Habakkuk <span class="zh">哈巴谷</span> 3:2 (NIV/CUV)
   + surely **remembers** us
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" class="empty" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-78A265wPiO4-sunlit_valley.jpg" class="empty" -->
