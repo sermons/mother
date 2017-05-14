@@ -315,6 +315,9 @@ So there is **hope** for your descendants
 
 >>>
 + or have I **given up** hope that God could ever redeem my children?
++ not that they return to **me**
+  + "guai", "xiao sun" obey parents
+  + but return to **God**, obedient to Him
 + **seek** God &rArr; **obey** His calling
 
 ---
@@ -330,8 +333,9 @@ So there is **hope** for your descendants
 + now we turn to the **son**
 + pattern of how **repentance** works
   + **example** for all of us
-+ e.g., JJ quickly pray + say "sorry" + off to play:
-  + how do we **know** if he's truly repentant?
++ e.g., JJ quickly pray + say "sorry"
+  + then off to **play** again:
+  + how to **know** if true repentance?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-rdwkamJlpiU-mist-mtns.jpg" -->
@@ -371,14 +375,14 @@ because you are the **Lord my God**.
     + learn to accept **yoke**
 	+ You: LORD **my God**
 + action and **reaction**:
-  + You **disciplnd** (pf) &rArr; I was (wayyiqtol, past)
-	+ **Turn** me &rArr; I turn (repent)
+  + You **disciplnd** &rArr; I was discp
+  + **Turn** me &rArr; I turn (repent)
 + We are not **strong** enough to repent
   + sinful lifestyle is a **trap**, chains
   + we do not **believe** it to be wrong
-+ Even the **ability** to repent is by God's **grace**
++ Even **ability** to repent is God's **grace**
   + none of us **deserves** it
-+ &rArr; **pray** that God would grant this grace
++ &rArr; **pray** God grant this grace
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
@@ -398,13 +402,13 @@ because I bore the **disgrace** of my youth.’
 >>>
 + I **turned** (point of **decision**)
   + sin was made **known** to me
-+ I was **sorry**/comfort (**emotion**, sorrow)
++ I was **sorry** (**emotion**, sorrow)
   + **clap** thigh: scoff, horror, contract
   + horrified at own **sin**
 	+ (Ez21:12 finality of judgment)
 + ashamed, disgrace:
   + not humiliated by **others**
-  + realise **own** behaviour was shameful
+  + realise **own** behaviour shameful
 
 ---
 <!-- .slide: data-background="white" -->
@@ -412,10 +416,11 @@ because I bore the **disgrace** of my youth.’
 # Will I **turn**?
 
 >>>
-+ **decision** (direction) + **emotion** (sorrow)
++ **decision** (change direction)
+  + &amp; **emotion** (sorrow)
 + realise **disgrace** of own behaviour
 + When I **myself** have repented,
-  + I'll know what it **looks like** in my children
+  + know what it **looks like** in child
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-78A265wPiO4-sunlit_valley.jpg" -->
@@ -446,7 +451,7 @@ Though I often **speak** against him, I still **remember** him.
 + dear (**precious**, weighty)
   + **delight** (light, joyful)
 + **speak** against/to
-	+ **remember**: inf abs (surely, certainly)
+	+ **remember**: inf abs (surely)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-C2PvO6dOORY-girls_walk.jpg" -->
@@ -462,7 +467,8 @@ I have great **compassion** for him,” declares the Lord.
 >>>
 + **heart**: bowels/inmost
 	+ **yearns**: roar/turmoil
-+ **compassion**: love, yearning (Piel inf abs):
++ **compassion**: love, yearning
+  + inf abs (surely, great)
   + Hab 3:2 **mercy** (Piel)
 
 ---
@@ -490,7 +496,7 @@ Habakkuk <span class="zh">哈巴谷</span> 3:2 (NIV/CUV)
 + mother's love starts before **birth**
 + God's **compassionate** love for us
   + **roars** for us from his **inmost** being
-  + **delights** and **values** us as precious
+  + **delights** + **values** us (precious)
   + surely **remembers** us
 
 ---
