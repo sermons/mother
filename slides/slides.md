@@ -44,7 +44,8 @@ because they are no more.”
 ---
 <span class="ref">16</span>
 This is what the Lord says: <br/>
-“**Restrain** your voice from weeping and your eyes from tears, <br/>
+“**Restrain** your voice from weeping <br/>
+and your eyes from tears, <br/>
 for your work will be **rewarded**,” declares the Lord.
 
 <div class="zh">
