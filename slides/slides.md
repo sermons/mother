@@ -10,6 +10,12 @@
 <!-- .element: style="color:rgba(0,0,0,0.2)" -->
 
 >>>
++ life-long **love** for her children
++ even when they wander **astray**
++ **sorrow** over child's rebellion
++ **hope** for their return
+
+===
 + ch30 write for future
 	+ :12 wound incurable || :17 I will heal
 	+ :24 fierce anger until accompl intent
