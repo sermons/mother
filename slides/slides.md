@@ -246,7 +246,7 @@ but if you **forsake** him, he will **forsake** you.
 </div>
 
 <div class="ref">
-2 Chronicles 15:2 (NIV)
+2 Chronicles <span class="zh">歷代志下</span> 15:2 (NIV)
 </div>
 
 >>>
@@ -265,7 +265,7 @@ for your **work** will be **rewarded**.
 </div>
 
 <div class="ref">
-2 Chronicles 15:7 (NIV)
+2 Chronicles <span class="zh">歷代志下</span> 15:7 (NIV)
 </div>
 
 >>>
@@ -317,6 +317,8 @@ So there is **hope** for your descendants
 + now we turn to the **son**
 + pattern of how **repentance** works
   + **example** for all of us
++ e.g., JJ quickly pray + say "sorry" + off to play:
+  + how do we **know** if he's truly repentant?
 
 ---
 <span class="ref">18</span>
@@ -407,10 +409,14 @@ because I bore the **disgrace** of my youth.’
 1. A Son's Chastening <span class="ref">(v18-19)</span>
 1. **The LORD's Compassion** <span class="ref">(v20)</span>
 
+>>>
++ **repentant** son
++ God's heart of **compassion**:
+
 ---
 <span class="ref">20</span>
 Is not Ephraim my **dear son**, the child in whom I **delight**? <br/>
-Though I often speak against him, I still **remember** him. <br/>
+Though I often **speak** against him, I still **remember** him. <br/>
 Therefore my heart **yearns** for him; <br/>
 I have great **compassion** for him,” declares the Lord.
 
@@ -423,15 +429,16 @@ I have great **compassion** for him,” declares the Lord.
 </div>
 
 >>>
-* dear (**precious**, weighty) || **delight**
-	* (Is5:7 vineyard, w/o yield)
-* **speak** against/to
-	* **remember**: inf abs
-* *heart*: bowels/inmost
-	* *yearns*: roar/turmoil
-* "it's your breath on our lungs"
-* love, yearn (Piel inf abs): **womb** (רָחַם)
-* Hab 3:2 in wrath remember mercy (Piel)
++ dear (**precious**, weighty)
+  + **delight** (light, joyful)
++ **speak** against/to
+	+ **remember**: inf abs (surely, certainly)
++ **heart**: bowels/inmost
+	+ **yearns**: roar/turmoil
++ **compassion**: love, yearn (Piel inf abs):
+  + root: **womb** (רָחַם)
+  + mother's love from before birth
+  + Hab 3:2 in wrath remember **mercy** (Piel)
 
 ---
 Lord, I have heard of your **fame**; <br/>
@@ -440,8 +447,15 @@ Repeat them in **our day**, <br/>
 in **our time** make them known; <br/>
 in **wrath** remember **mercy**.
 
+<div class="zh">
+耶和華啊， 我聽見你的名聲就懼怕。 <br/>
+耶和華啊， 求你在這些年間復興你的作為， <br/>
+在這些年間顯明出來； <br/>
+在發怒的時候以憐憫為念。
+</div>
+
 <div class="ref">
-Habakkuk 3:2 (NIV)
+Habakkuk <span class="zh">哈巴谷</span> 3:2 (NIV/CUV)
 </div>
 
 ---
