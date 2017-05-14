@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-78A265wPiO4-sunlit_valley.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-JZOQOGBrj8c-mother_daughter_kiss_trees.jpg" -->
 # God's Compassion, <br/> A Mother's Heart
 ## Jeremiah 31:15-20
 
@@ -199,7 +199,7 @@ Genesis 37:35 (NIV) (p.2/2)
 
 ---
 <!-- .slide: data-background="white" -->
-# God **sees** each mother's **tears**
+# God **sees** each <br/> mother's **tears**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-78A265wPiO4-sunlit_valley.jpg" -->
@@ -301,8 +301,8 @@ So there is **hope** for your descendants
 
 ---
 <!-- .slide: data-background="white" -->
-# Will I persevere to **seek** God
-# for the hope of their **return**?
+# Will I persevere <br/> to **seek** God
+# for the hope <br/> of my child's **return**?
 
 >>>
 + or have I **given up** hope that God could ever redeem my children?
