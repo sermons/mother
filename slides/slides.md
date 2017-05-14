@@ -314,7 +314,9 @@ So there is **hope** for your descendants
 
 >>>
 + first call+response is **mother**
-+ now we turn to the **son**:
++ now we turn to the **son**
++ pattern of how **repentance** works
+  + **example** for all of us
 
 ---
 <span class="ref">18</span>
@@ -363,10 +365,10 @@ because you are the **Lord my God**.
 
 ---
 <span class="ref">19</span>
-After I strayed, I **repented**; <br/>
-after I came to **understand**, I beat my breast. <br/>
+After I **strayed**, I **repented**; <br/>
+after I came to **understand**, I **beat** my breast. <br/>
 I was **ashamed** and humiliated <br/>
-because I bore the disgrace of my youth.’
+because I bore the **disgrace** of my youth.’
 
 <div class="zh">
 <span class="ref">19</span>
@@ -376,19 +378,26 @@ because I bore the disgrace of my youth.’
 </div>
 
 >>>
-* **turned** (ac) || made **known** (ps)
-	* **sorry**/comfort || **clap** thigh
-		* contract, scoff, horror
-	* (Ez21:12 finality of judgment)
-* ashamed, **humiliated**, disgrace
-	* not: prove self, appl loan from dad
-	* not: success, don't need you
-* e.g., guitar stolen
-* instr: e.g. frustrated @SS kids: then teach them
++ I **turned** (point of **decision**)
+  + sin was made **known** to me
++ I was **sorry**/comfort (**emotion**, sorrow)
+  + **clap** thigh: scoff, horror, contract
+  + horrified at own **sin**
+	+ (Ez21:12 finality of judgment)
++ ashamed, disgrace:
+  + not humiliated by **others**
+  + realise **own** behaviour was shameful
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Is God **turning** me now?
+# Will I **turn**?
+
+>>>
++ **decision** (direction) + **emotion** (sorrow)
++ realise **disgrace** of own behaviour
++ When I **myself** have repented,
+  + I'll know what it **looks like** in my children
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
