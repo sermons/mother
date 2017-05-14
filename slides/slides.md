@@ -334,9 +334,9 @@ So there is **hope** for your descendants
 ---
 <span class="ref">18</span>
 ‘You **disciplined** me like an unruly **calf**, <br/>
-and I have been disciplined. <br/>
+and I have been **disciplined**. <br/>
 **Restore** me, and I will **return**, <br/>
-because you are the Lord my God.
+because you are the **Lord my God**.
 
 <div class="zh">
 <span class="ref">18</span>
@@ -347,10 +347,19 @@ because you are the Lord my God.
 </div>
 
 >>>
-* You **disciplnd** (pf) => I was (wayyiqtol)
-	* || **Turn** me => I turn (repent)
-* I: calf not-been-**taught** (ps)
-	* || You: LORD **my God**
++ **roles** and relation:
+  + I: calf not-been-**taught** (ps)
+    + learn to accept **yoke**
+	+ You: LORD **my God**
++ action and **reaction**:
+  + You **disciplnd** (pf) &rArr; I was (wayyiqtol, past)
+	+ **Turn** me &rArr; I turn (repent)
++ We are not **strong** enough to repent
+  + sinful lifestyle is a **trap**, chains
+  + we do not **believe** it to be wrong
++ Even the **ability** to repent is by God's **grace**
+  + none of us **deserves** it
++ &rArr; **pray** that God would grant this grace
 
 ---
 <span class="ref">19</span>
