@@ -306,7 +306,7 @@ So there is **hope** for your descendants
 
 ---
 <!-- .slide: data-background="white" -->
-# Will I persevere <br/> to **seek** God
+# Will I continue <br/> to **seek** God
 # for the hope <br/> of my child's **return**?
 
 >>>
@@ -429,16 +429,13 @@ because I bore the **disgrace** of my youth.’
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-C2PvO6dOORY-girls_walk.jpg" -->
 <span class="ref">20</span>
 Is not Ephraim my **dear son**, the child in whom I **delight**? <br/>
-Though I often **speak** against him, I still **remember** him. <br/>
-Therefore my heart **yearns** for him; <br/>
-I have great **compassion** for him,” declares the Lord.
+Though I often **speak** against him, I still **remember** him.
 
 <div class="zh">
 <span class="ref">20</span>
 耶和華說：以法蓮是我的愛子麼？ <br/>
 是可喜悅的孩子麼？ <br/>
-我每逢責備他， 仍深顧念他； <br/>
-所以我的心腸戀慕他； 我必要憐憫他。
+我每逢責備他， 仍深顧念他；
 </div>
 
 >>>
@@ -446,6 +443,19 @@ I have great **compassion** for him,” declares the Lord.
   + **delight** (light, joyful)
 + **speak** against/to
 	+ **remember**: inf abs (surely, certainly)
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-C2PvO6dOORY-girls_walk.jpg" -->
+<span class="ref">20</span>
+Therefore my heart **yearns** for him; <br/>
+I have great **compassion** for him,” declares the Lord.
+
+<div class="zh">
+<span class="ref">20</span>
+所以我的心腸戀慕他； 我必要憐憫他。
+</div>
+
+>>>
 + **heart**: bowels/inmost
 	+ **yearns**: roar/turmoil
 + **compassion**: love, yearning (Piel inf abs):
