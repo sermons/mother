@@ -121,6 +121,15 @@ I have great **compassion** for him,” declares the Lord.
 1. A Son's **Chastening** <span class="ref">(v18-19)</span>
 1. The LORD's **Compassion** <span class="ref">(v20)</span>
 
+>>>
++ call-and-response:
++ **sorrow** of a grieving mother
++ **promise** of God's reward for efforts
+  + **hope** of children returning
++ **discipline**: God disciplines,
+  + son **accepts** the discipline
++ **compassion** of God to receive repentant son
+
 ---
 <span class="ref">15</span>
 “A voice is heard in Ramah, <br/>
@@ -138,11 +147,12 @@ because they are no more.”
 
 >>>
 + sorrow over **lost children**
-	+ (Mt2:18 Bethlehem) (Benj/Rachel)
+	+ (Mt2:18) Bethlehem, in Benjamin/Rachel
 	+ e.g., remember miscarriage 25yrs
-+ lost to **exile**: turned away from God
-	+ not about success, schooling
-+ refuse **comfort**: repent, ! mourn: move on
++ sons of Israel were lost to **exile**:
+	+ not that they failed in **school** / success
+  + but turned away from **God**
++ **comfort**: repent, move on:
 	+ **Gen37:35** Jacob over Joseph
 	+ (:13, Is40 comfort my people)
 
@@ -178,6 +188,17 @@ So his father **wept** for him.
 Genesis 37:35 (NIV) (p.2/2)
 </div>
 
+>>>
++ to those who say "just **move on**"
+  + "nothing you can do anyway"
++ a mother never **forgets** her child
+  + never **gives up** on them
+  + always **hopes** for child's restoration
+
+---
+<!-- .slide: data-background="white" -->
+# God **sees** each mother's **tears**
+
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 ## Jeremiah 31:15-20
@@ -185,6 +206,13 @@ Genesis 37:35 (NIV) (p.2/2)
 1. **The LORD's Promise** <span class="ref">(v16-17)</span>
 1. A Son's Chastening <span class="ref">(v18-19)</span>
 1. The LORD's Compassion <span class="ref">(v20)</span>
+
+>>>
++ God **sees** each mother's **tears**
++ God knows your **efforts**
+  + not just physical **tiredness**
+  + but **emotional** investment
++ There is a promise of **reward**
 
 ---
 <span class="ref">16</span>
@@ -198,24 +226,54 @@ for your work will be **rewarded**
 因你所做之工必有賞賜；
 </div>
 
----
-The Lord is with you when you are with him. <br/>
-If you **seek** him, he will be **found** by you, <br/>
-but if you forsake him, he will forsake you.
+>>>
++ God is not saying it is **wrong** to grieve
+  + **should** grieve over sin
++ but there is a future **hope**:
+  + **reward** for the mother
+  + **return** of the child
++ similar promise in **2Chr15** to King Asa:
 
-But as for you, be strong and do not give up, <br/>
-for your **work will be rewarded**.
+---
+The Lord is **with** you when you are **with** him. <br/>
+If you **seek** him, he will be **found** by you, <br/>
+but if you **forsake** him, he will **forsake** you.
+
+<div class="zh">
+你們若順從耶和華， 耶和華必與你們同在； <br/>
+你們若尋求他， 就必尋見； <br/>
+你們若離棄他， 他必離棄你們。
+</div>
 
 <div class="ref">
 2 Chronicles 15:2 (NIV)
 </div>
 
 >>>
-* **2Ch15:7** Asa: be strong, **reward** for work
-	* :2 with God, seek Him
-	* **reforms**: idols, incl own mom's
-	* || hope for **future** *(desc):* (Jer29:11)
-	* redeemed out of enemy exile **70yrs**
++ remain **close** to God: obey
++ **seek** Him: to hear His voice
++ do not **forsake**
+  + or **run away** from God's calling
+
+---
+But as for you, be **strong** and do not give up, <br/>
+for your **work** will be **rewarded**.
+
+<div class="zh">
+現在你們要剛強， 不要手軟， <br/>
+因你們所行的必得賞賜。
+</div>
+
+<div class="ref">
+2 Chronicles 15:7 (NIV)
+</div>
+
+>>>
++ what **work**?  Asa's **reforms**:
+  + remove **idols** (incl own mom's!)
+  + **rededicate** country to worship God alone
++ (1) hope of **reward**
+  + (2) hope of **return**:
 
 ---
 They will **return** from the land of the enemy. <br/>
@@ -229,9 +287,13 @@ So there is **hope** for your descendants
 </div>
 
 >>>
-* return **from** enemy || return **to** own land
-	* ancient boundary: **home**
-* e.g., Christopher Yuan's mom Angela
+* lost children coming **home**:
+  + not just home to **mom+dad**
+  + **real** home is in arms of **Creator**
++ (cf Jer29:11) hope for **future**:
+	+ redeemed out of enemy **exile**
+  + but took **70yrs**!
++ e.g., Christopher Yuan's mom Angela
 
 ---
 <!-- .slide: data-background="white" -->
