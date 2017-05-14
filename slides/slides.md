@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-JZOQOGBrj8c-mother_daughter_kiss_trees.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-78A265wPiO4-sunlit_valley.jpg" -->
 # God's Compassion, <br/> A Mother's Heart
 ## Jeremiah 31:15-20
 
@@ -131,6 +131,7 @@ I have great **compassion** for him,” declares the Lord.
 + **compassion** of God to receive repentant son
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg" -->
 <span class="ref">15</span>
 “A voice is heard in Ramah, <br/>
 **mourning** and great weeping, <br/>
@@ -217,6 +218,7 @@ Genesis 37:35 (NIV) (p.2/2)
 + There is a promise of **reward**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8TJbrQGKFyU-hiking.jpg" -->
 <span class="ref">16</span>
 **Restrain** your voice from weeping <br/>
 and your eyes from tears, <br/>
@@ -280,6 +282,7 @@ for your **work** will be **rewarded**.
   + (2) hope of **return**:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
 They will **return** from the land of the enemy. <br/>
 <span class="ref">17</span>
 So there is **hope** for your descendants
@@ -325,6 +328,7 @@ So there is **hope** for your descendants
   + how do we **know** if he's truly repentant?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-rdwkamJlpiU-mist-mtns.jpg" -->
 <span class="ref">18</span>
 “I have surely **heard** Ephraim’s **moaning**:
 
@@ -340,6 +344,7 @@ So there is **hope** for your descendants
   + sorrow over own **sin**:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-b8rkmfxZjdU-kids.jpg" -->
 <span class="ref">18</span>
 ‘You **disciplined** me like an unruly **calf**, <br/>
 and I have been **disciplined**. <br/>
@@ -370,6 +375,7 @@ because you are the **Lord my God**.
 + &rArr; **pray** that God would grant this grace
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
 <span class="ref">19</span>
 After I **strayed**, I **repented**; <br/>
 after I came to **understand**, I **beat** my breast. <br/>
@@ -418,6 +424,7 @@ because I bore the **disgrace** of my youth.’
 + God's heart of **compassion**:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-C2PvO6dOORY-girls_walk.jpg" -->
 <span class="ref">20</span>
 Is not Ephraim my **dear son**, the child in whom I **delight**? <br/>
 Though I often **speak** against him, I still **remember** him. <br/>
