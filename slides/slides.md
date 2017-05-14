@@ -292,12 +292,17 @@ So there is **hope** for your descendants
   + **real** home is in arms of **Creator**
 + (cf Jer29:11) hope for **future**:
 	+ redeemed out of enemy **exile**
-  + but took **70yrs**!
+  + but it took **70yrs**!
 + e.g., Christopher Yuan's mom Angela
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# Will I persevere to **seek** God
+# for the hope of their **return**?
+
+>>>
++ or have I **given up** hope that God could ever redeem my children?
++ **seek** God &rArr; **obey** His calling
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
@@ -307,9 +312,27 @@ So there is **hope** for your descendants
 1. **A Son's Chastening** <span class="ref">(v18-19)</span>
 1. The LORD's Compassion <span class="ref">(v20)</span>
 
+>>>
++ first call+response is **mother**
++ now we turn to the **son**:
+
 ---
 <span class="ref">18</span>
-“I have surely **heard** Ephraim’s moaning: <br/>
+“I have surely **heard** Ephraim’s **moaning**:
+
+<div class="zh">
+<span class="ref">18</span>
+我聽見以法蓮為自己悲歎說： <br/>
+</div>
+
+>>>
++ surely **heard**: inf abs (intensive)
++ **moaning**: shake head, quiver
+  + sorrow over God's **punishment**
+  + sorrow over own **sin**:
+
+---
+<span class="ref">18</span>
 ‘You **disciplined** me like an unruly **calf**, <br/>
 and I have been disciplined. <br/>
 **Restore** me, and I will **return**, <br/>
@@ -317,7 +340,6 @@ because you are the Lord my God.
 
 <div class="zh">
 <span class="ref">18</span>
-我聽見以法蓮為自己悲歎說： <br/>
 你責罰我，我便受責罰， <br/>
 像不慣負軛的牛犢一樣。 <br/>
 求你使我回轉，我便回轉， <br/>
@@ -325,8 +347,6 @@ because you are the Lord my God.
 </div>
 
 >>>
-* surely **heard**: inf abs
-	* **moaning**: shake head, quiver
 * You **disciplnd** (pf) => I was (wayyiqtol)
 	* || **Turn** me => I turn (repent)
 * I: calf not-been-**taught** (ps)
