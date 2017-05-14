@@ -435,10 +435,8 @@ I have great **compassion** for him,” declares the Lord.
 	+ **remember**: inf abs (surely, certainly)
 + **heart**: bowels/inmost
 	+ **yearns**: roar/turmoil
-+ **compassion**: love, yearn (Piel inf abs):
-  + root: **womb** (רָחַם)
-  + mother's love from before birth
-  + Hab 3:2 in wrath remember **mercy** (Piel)
++ **compassion**: love, yearning (Piel inf abs):
+  + Hab 3:2 **mercy** (Piel)
 
 ---
 Lord, I have heard of your **fame**; <br/>
@@ -458,9 +456,14 @@ in **wrath** remember **mercy**.
 Habakkuk <span class="zh">哈巴谷</span> 3:2 (NIV/CUV)
 </div>
 
----
-<!-- .slide: data-background="white" -->
-# Q4
+>>>
++ mercy / **compassion**:
+  + root: **womb** (רָחַם)
++ mother's love starts before **birth**
++ God's **compassionate** love for us
+  + **roars** for us from his **inmost** being
+  + **delights** and **values** us as precious
+  + surely **remembers** us
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" class="empty" -->
