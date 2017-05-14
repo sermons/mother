@@ -16,7 +16,7 @@
 + **sorrow** over child's rebellion
 + **hope** for their return
 
-******
+______
 + ch30 write for future
 	+ :12 wound incurable || :17 I will heal
 	+ :24 fierce anger until accompl intent
