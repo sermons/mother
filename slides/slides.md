@@ -30,7 +30,7 @@ ______
 This is what the Lord says: <br/>
 “A voice is heard in Ramah, **mourning** and great weeping, <br/>
 Rachel **weeping** for her children <br/>
-and **refusing** to be comforted, <br/>
+and refusing to be **comforted**, <br/>
 because they are no more.”
 
 <div class="zh">
@@ -130,7 +130,7 @@ I have great **compassion** for him,” declares the Lord.
   + **hope** of children returning
 + **discipline**: God disciplines,
   + son **accepts** the discipline
-+ **compassion** of God to receive repentant son
++ deep **yearning** of God's heart for us
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg" -->
@@ -138,7 +138,7 @@ I have great **compassion** for him,” declares the Lord.
 “A voice is heard in Ramah, <br/>
 **mourning** and great weeping, <br/>
 Rachel weeping for her **children** <br/>
-and **refusing** to be comforted, <br/>
+and refusing to be **comforted**, <br/>
 because they are no more.”
 
 <div class="zh">
@@ -176,6 +176,10 @@ but he **refused to be comforted.**
 
 <div class="ref">
 Genesis 37:34-35 (NIV) (p.1/2)
+</div>
+<div class="caption">
+Jean-Jacques Forty,
+["Jacob Recognizing the Robe of His Son Joseph"](https://collections.artsmia.org/art/2491/jacob-recognizing-the-robe-of-his-son-joseph-jean-jacques-forty), 1791.
 </div>
 
 ---
@@ -238,7 +242,7 @@ for your work will be **rewarded**
 + but there is a future **hope**:
   + **reward** for the mother
   + **return** of the child
-+ similar promise in **2Chr15** to King Asa:
++ same promise to King Asa, **2Chr15**:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-FAVdyq1Qz24-aus-rock-beach.jpg" -->
