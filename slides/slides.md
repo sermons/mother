@@ -283,7 +283,7 @@ for your **work** will be **rewarded**.
 >>>
 + what **work**?  Asa's **reforms**:
   + remove **idols** (incl own mom's!)
-  + **rededicate** country to worship God alone
+  + **rededicate** to worship God alone
 + (1) hope of **reward**
   + (2) hope of **return**:
 
