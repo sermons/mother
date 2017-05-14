@@ -469,7 +469,17 @@ I have great **compassion** for him,” declares the Lord.
 	+ **yearns**: roar/turmoil
 + **compassion**: love, yearning
   + inf abs (surely, great)
-  + Hab 3:2 **mercy** (Piel)
+  + root: **womb** (רָחַם)
+  + mother's love even before **birth**
+
+---
+<!-- .slide: data-background="white" -->
+# Do I **emulate** <br/> the Father's heart <br/> of **compassion**?
+
+>>>
++ Do I understand His great **love** for me?
++ Do I **show** that love to my children and to others?
++ same word "compassion" translated as **mercy** in Hab3:2:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-78A265wPiO4-sunlit_valley.jpg" -->
@@ -491,10 +501,8 @@ Habakkuk <span class="zh">哈巴谷</span> 3:2 (NIV/CUV)
 </div>
 
 >>>
-+ mercy / **compassion**:
-  + root: **womb** (רָחַם)
-+ mother's love starts before **birth**
-+ God's **compassionate** love for us
++ Though God **disciplines** His children
++ He has great **compassionate** love for us
   + **roars** for us from his **inmost** being
   + **delights** + **values** us (precious)
   + surely **remembers** us
