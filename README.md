@@ -3,7 +3,7 @@
 
 [![Build status](https://travis-ci.org/sermons/mother.svg)](https://travis-ci.org/sermons/mother)
 [![Node deps](https://david-dm.org/sermons/mother.svg)](https://david-dm.org/sermons/mother)
-[![Node devDeps](https://david-dm.org/sermons/mother/dev-status.svg)](https://david-dm.org/sermons/mother#info=devDependencies)
+[![Node devDeps](https://david-dm.org/sermons/mother/dev-status.svg)](https://david-dm.org/sermons/mother?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
