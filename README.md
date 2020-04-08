@@ -1,7 +1,7 @@
 # God's Compassion, A Mother's Heart
 ## Jeremiah 31:15-20
 
-[![Build status](https://travis-ci.org/sermons/mother.svg)](https://travis-ci.org/sermons/mother)
+[![Build status](https://api.travis-ci.org/sermons/mother.svg)](https://travis-ci.org/github/sermons/mother)
 [![Node deps](https://david-dm.org/sermons/mother.svg)](https://david-dm.org/sermons/mother)
 [![Node devDeps](https://david-dm.org/sermons/mother/dev-status.svg)](https://david-dm.org/sermons/mother?type=dev)
 
