@@ -35,7 +35,7 @@
       }
     ],
     "slides": [
-      "slides/slides.md"
+      "slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.0",
     "css": [
