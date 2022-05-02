@@ -2,11 +2,26 @@ module.exports = (grunt) ->
   grunt.initConfig
     pkg: grunt.file.readJSON 'package.json'
 
-    connect:
-      serve:
+    copy:
+      static:
+        expand: true
+        dot: true
+        cwd: 'static'
+        src: '**'
+        dest: 'dist/'
+      template:
+        expand: true
+        cwd: 'template'
+        src: '**'
+        dest: 'dist/'
         options:
-          port: 9000
-          hostname: 'localhost'
+          process: (content, path) ->
+            return grunt.template.process content
+      plugin:
+        expand: true
+        flatten: true
+        src: 'node_modules/socket.io-client/dist/*'
+        dest: 'dist/lib/socket.io/'
 
     sass:
       options:
@@ -14,48 +29,34 @@ module.exports = (grunt) ->
         includePaths: ['node_modules/reveal.js/css/theme/']
         outputStyle: 'compressed'
       theme:
-        files:
-          'static/css/boldblack.css': 'scss/boldblack.scss'
-
-    exec:
-      print: 'decktape -s 1024x768 reveal "http://localhost:9000/" <%= pkg.pdf %> --no-sandbox; true'
-      thumbnail: 'decktape -s 800x600 --screenshots --screenshots-directory . --slides 1 reveal "http://localhost:9000/#/title" static/img/thumbnail.jpg --no-sandbox; true'
-      reducePDF: 'mv <%= pkg.pdf %> print.pdf; gs -q -dNOPAUSE -dBATCH -dSAFER -dPDFSETTINGS=/ebook -sDEVICE=pdfwrite -sOutputFile=<%= pkg.pdf %> print.pdf'
-      qr: 'echo https://<%= pkg.config.pretty_url %> | qrcode -o static/img/<%= pkg.shortname %>-qr.png'
-
-    copy:
-      index:
-        src: '_index.html'
-        dest: 'index.html'
-        options:
-          process: (content, path) ->
-            return grunt.template.process content
-      plugin:
-        expand: true
-        flatten: true
-        src: 'node_modules/reveal.js/plugin/notes/*'
-        dest: 'static/js/'
-      dist:
         files: [{
           expand: true
-          src: [
-            'static/**'
-            'index.html'
-          ]
-          dest: 'dist/'
-        },{
-          expand: true
-          flatten: true
-          src: 'static/img/favicon.*'
-          dest: 'dist/'
+          cwd: 'scss'
+          src: '*.scss'
+          dest: 'dist/css/'
+          ext: '.css'
         }]
 
-  # Generated grunt vars
+    connect:
+      serve:
+        options:
+          port: 9000
+          hostname: 'localhost'
+          base: 'dist'
+
+    exec:
+      print: 'decktape -s 1024x768 --screenshots --screenshots-size 1920x1080 --screenshots-format jpg --screenshots-directory dist/img --chrome-arg=--no-sandbox reveal "http://localhost:9000/" print.pdf'
+      reducePDF: 'gs -q -dNOPAUSE -dBATCH -dSAFER -dPDFSETTINGS=/ebook -sDEVICE=pdfwrite -sOutputFile=dist/<%= pkg.shortname %>.pdf print.pdf'
+      thumbnail: "convert -geometry '330x330>' dist/img/print_1_* dist/img/<%= pkg.shortname %>.png"
+      qr: 'echo https://<%= pkg.config.pretty_url %> | qrcode -o dist/img/<%= pkg.shortname %>-qr.png'
+
+  # Macros for convenience
   grunt.config.merge
     pkg:
       shortname: grunt.config('pkg.name').replace(/.*\//, '')
-      pdf: 'static/<%= pkg.shortname %>.pdf'
-      commit: (process.env.TRAVIS_COMMIT || "testing").substr(0,7)
+      commit: (process.env.GITHUB_SHA || "testing").substr(0,7)
+      config:
+        pretty_url: grunt.config('pkg.config.cname') unless grunt.config('pkg.config.pretty_url')
     img: (id) ->
       'https://sermons.seanho.com/img/' + id
     bg: (id) ->
@@ -68,18 +69,10 @@ module.exports = (grunt) ->
   # Autoload tasks from grunt plugins
   require('load-grunt-tasks')(grunt)
 
-  grunt.registerTask 'cname',
-    'Create CNAME for Github Pages', ->
-      if grunt.config 'pkg.config.cname'
-        grunt.file.write 'dist/CNAME', grunt.config 'pkg.config.cname'
-
-  grunt.registerTask 'nojekyll',
-    'Disable Jekyll processing on Github Pages', ->
-      grunt.file.write 'dist/.nojekyll', ''
-
   grunt.registerTask 'install',
-    '*Compile* templates', [
-      'copy:index'
+    '*Build* site', [
+      'copy:static'
+      'copy:template'
       'copy:plugin'
       'sass:theme'
     ]
@@ -91,13 +84,6 @@ module.exports = (grunt) ->
       'exec:reducePDF'
       'exec:thumbnail'
       'exec:qr'
-    ]
-
-  grunt.registerTask 'dist',
-    '*Copy* site to dist/ for deployment', [
-      'copy:dist'
-      'cname'
-      'nojekyll'
     ]
 
   # Define default task.

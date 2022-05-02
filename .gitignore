@@ -1,8 +1,5 @@
-*.swp
-*.swo
+*.sw[op]
 ~*
 *~
-node_modules
-dist
-*.log
-.sass-cache
+dist/
+node_modules/
